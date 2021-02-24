@@ -1,2 +1,2 @@
-# BrainFuck-Interpreter
-A simple esolang Brainfuck interpreter completely built with python.
+# BrainF-ck-Interpreter
+A simple esolang Brainf-ck interpreter completely built with python.
