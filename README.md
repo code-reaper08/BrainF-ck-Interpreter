@@ -34,7 +34,9 @@ This interpreter mimics the memory tape with python's array and simulates the bi
 1. Navigate to [this repository](https://github.com/code-reaper08/BrainF-ck-Interpreter).
 
 2. Click on the **Download ZIP**.
-      ![How to download ZIP](Image link "How to download ZIP")
+
+      ![downloadzip](https://user-images.githubusercontent.com/64256342/108976679-c61ad880-76ad-11eb-9892-a47038b788db.png)
+
 
 3. Place your .bf (Brainf-ck code) in the same folder containing the [interpreter](https://github.com/code-reaper08/BrainF-ck-Interpreter/blob/main/BF.py).
 
